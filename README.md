@@ -9,7 +9,7 @@ I used the **COCO128** dataset, a subset of the **COCO** dataset, which consists
 coco128/
 │── 📁images/
 │   ├──📁 train2017/
-│──📁 labels/
+│── 📁 labels/
 │   ├──📁 train2017/
 ```
 
