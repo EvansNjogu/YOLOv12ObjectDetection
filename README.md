@@ -1,6 +1,6 @@
 # YOLOv12 Object Detection
 
-This task implements **YOLOv12** for object detection using **Ultralytics YOLO** framework. It involves training the model on the **COCO128 dataset**, visualizing results using TensorBoard and performing inference on images.
+This task implements **YOLOv12** for object detection using **Ultralytics YOLO** framework. It involves training the model on the **COCO128 dataset**, visualizing results using TensorBoard & performing inference on images.
 
 ## Dataset
 I used the **COCO128** dataset, a subset of the **COCO** dataset, which consists of 128 labeled images spanning 80 object categories. The dataset is structured as follows:
